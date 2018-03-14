@@ -21,4 +21,4 @@ cpp: cpp_build
 	./playground.out
 
 clean:
-	git clean -f
+	git clean -xdf
